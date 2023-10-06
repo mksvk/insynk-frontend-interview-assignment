@@ -1,0 +1,15 @@
+.expenseTrackingHeading {
+    display: flex;
+    justify-content: space-around; /* Align items at the start and end */
+    align-items: center; /* Center items vertically */
+    padding: 10px;
+    background-color: #CAEDFF;
+    color: #1450A3;
+  }
+  
+  .addButton {
+  background:#2c5997;
+  color: white;
+  padding: 10px 20px 10px 20px ;
+  cursor: pointer; 
+  }
